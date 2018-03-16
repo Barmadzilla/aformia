@@ -1,0 +1,17 @@
+.augusto_bg{
+    background: url("../img/bg_augusto_2.jpg") no-repeat right top;
+    background-color: #000000;
+}
+.news {
+    min-height: 400px;
+    color: black;
+    background: white;
+}
+.content {
+    background: white;
+    min-height: 600px;
+    width: 510px;
+    display: inline-block;
+    margin: 5px 0 5px 31px;
+    padding: 3px 16px;
+}
